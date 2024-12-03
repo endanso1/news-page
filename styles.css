@@ -116,7 +116,7 @@
             font-size: 14px;
             color: #555;
         }
-        .news-card img{
+        .news-card img video{
             max-width: 100%;
             height: auto;
             display: block;
